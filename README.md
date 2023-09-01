@@ -1,7 +1,14 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Machine Learning and Dev Ops
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kydoimos97&layout=compact&theme=transparent&hide=html)]()
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kydoimos97&count_private=true&theme=transparent&show_icons=true&show=reviews&rank_icon=github&custom_title=Kydoimos97's%20GitHub%20Stats)]()
+
+
+
 
 <!--
-**Kydoimos97/Kydoimos97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
