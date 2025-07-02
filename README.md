@@ -14,11 +14,11 @@
   />
 </p>
 
-### 👷 Check out what I'm currently working on
+### Current Focus
 
 - [WrenchAI/WrenchCL](https://github.com/WrenchAI/WrenchCL) - 
 
-### 🌱 My latest projects
+### Latest projects
 
 - [Kydoimos97/CodeLibrary](https://github.com/Kydoimos97/CodeLibrary) - CodeLibrary is a curated collection of python code snippets and examples organized by topics. The main goal of this repository is to provide reusability for frequently used code.
 - [Kydoimos97/CapstoneMSIS](https://github.com/Kydoimos97/CapstoneMSIS) - 
@@ -26,15 +26,15 @@
 - [Kydoimos97/PaymentPredictorUtility](https://github.com/Kydoimos97/PaymentPredictorUtility) - 
 - [Kydoimos97/AirAsiaWebdev](https://github.com/Kydoimos97/AirAsiaWebdev) - 
 
-### 🔨 My recent Pull Requests
+### Recent Pull Requests
 
 
 ---
 
-### 📫 Socials
+### Profiles
 
-- 🐙 [GitHub](https://github.com/Kydoimos97)
-- 💼 [LinkedIn](https://www.linkedin.com/in/willem-vd-schans/)
+- [GitHub](https://github.com/Kydoimos97)
+- [LinkedIn](https://www.linkedin.com/in/willem-vd-schans/)
 
 ---
 
