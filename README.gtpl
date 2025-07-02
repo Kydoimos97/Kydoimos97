@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Kydoimos97/Kydoimos97/main/banner.png" 
+    src="./banner.png" 
     alt="Kydoimos97 Banner" 
   />
 </p>
