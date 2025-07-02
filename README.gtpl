@@ -14,27 +14,27 @@
   />
 </p>
 
-### 👷 Check out what I'm currently working on
+### Current Focus
 {{ range recentContributions 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 
-### 🌱 My latest projects
+### Latest projects
 {{ range recentRepos 5 }}
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
 {{- end }}
 
-### 🔨 My recent Pull Requests
+### Recent Pull Requests
 {{ range recentPullRequests 5 }}
 - [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
 {{- end }}
 
 ---
 
-### 📫 Socials
+### Profiles
 
-- 🐙 [GitHub](https://github.com/Kydoimos97)
-- 💼 [LinkedIn](https://www.linkedin.com/in/willem-vd-schans/)
+- [GitHub](https://github.com/Kydoimos97)
+- [LinkedIn](https://www.linkedin.com/in/willem-vd-schans/)
 
 ---
 
