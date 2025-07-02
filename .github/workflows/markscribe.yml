@@ -25,6 +25,9 @@ jobs:
       - name: Commit README
         uses: stefanzweifel/git-auto-commit-action@v5
         env:
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         with:
           commit_message: 'markscribe: update README.md'
+          push_options: '--force'
+          skip_fetch: false
+
