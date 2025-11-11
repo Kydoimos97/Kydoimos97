@@ -43,7 +43,8 @@ jobs:
           plugin_gists: yes
           plugin_habits: yes
           plugin_habits_charts_type: classic
-          plugin_habits_days: 14
+          plugin_habits_days: 30
+          plugin_habits_ignored_users: github-actions[bot],dependabot[bot],copilot[bot],copilot-chat[bot]
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_isocalendar: yes
