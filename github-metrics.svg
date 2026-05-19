@@ -1211,27 +1211,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">AiAxis</span>
-                                <div class="bar" style="width: 22.712%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 22.456%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">28%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">ai-ad-creative-cache</span>
-                                <div class="bar" style="width: 6.536%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 6.552%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">8%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">wrench-frontend</span>
-                                <div class="bar" style="width: 5.175999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">6%</span>
+                                <div class="bar" style="width: 5.207999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">7%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">AI-Pipeline</span>
-                                <div class="bar" style="width: 4.808%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.824%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Hex</span>
-                                <div class="bar" style="width: 4.384%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.392%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                         </div>
@@ -1241,17 +1241,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 47.648%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">60%</span>
+                                <div class="bar" style="width: 47.504%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">59%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 6.712%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 6.751999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">8%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 5.608%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.648%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                             <div class="entry">
@@ -1273,22 +1273,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">IntelliJ IDEA</span>
-                                <div class="bar" style="width: 54.072%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">68%</span>
+                                <div class="bar" style="width: 53.824000000000005%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">67%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Editor</span>
-                                <div class="bar" style="width: 11.959999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 11.984000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">15%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">WebStorm</span>
-                                <div class="bar" style="width: 4.608%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.616%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Google Calendar</span>
-                                <div class="bar" style="width: 3.904%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.936%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                             <div class="entry">
@@ -1303,12 +1303,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Windows</span>
-                                <div class="bar" style="width: 71.8%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 71.76%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">90%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown OS</span>
-                                <div class="bar" style="width: 8.2%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 8.24%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">10%</span>
                             </div>
                         </div>
@@ -1317,7 +1317,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 May 2026, 03:40:05 (timezone America/Denver) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 19 May 2026, 08:58:57 (timezone America/Denver) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
