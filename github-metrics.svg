@@ -1206,8 +1206,8 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">AiAxis</span>
-                                <div class="bar" style="width: 21.991999999999997%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">27%</span>
+                                <div class="bar" style="width: 22%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">28%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">wrench-frontend</span>
@@ -1288,7 +1288,7 @@
                             </div>
                             <div class="entry">
                                 <span class="name">WebStorm</span>
-                                <div class="bar" style="width: 4.072%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.064%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                         </div>
@@ -1298,12 +1298,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Windows</span>
-                                <div class="bar" style="width: 71.152%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 71.144%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">89%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown OS</span>
-                                <div class="bar" style="width: 8.848%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 8.856%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">11%</span>
                             </div>
                         </div>
@@ -1312,7 +1312,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jul 2026, 04:17:08 (timezone America/Denver) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 6 Jul 2026, 09:28:28 (timezone America/Denver) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
